@@ -81,7 +81,7 @@ export const PokemonController = () => {
             <br />
             <TextField 
                 id="outlined-basic" 
-                label="Outlined" 
+                label="Search Pokemon by ID" 
                 variant="outlined" 
                 value={pokemonText}
                 onChange= {(event) => setPokemonText(event.target.value)}
