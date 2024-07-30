@@ -4,7 +4,15 @@
 - Page then displays the requested Pokemon's information in a MaterialUI card
 - Info displayed includes: name, types, moves, picture, height and weight
 
-  
+# Video of webpage
+
+
+
+https://github.com/user-attachments/assets/3639b51d-1e46-4e5c-b3c6-9995ae3ae931
+
+
+
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
